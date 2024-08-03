@@ -1,0 +1,3 @@
+merge -> 여러 커밋을 하나의 커밋으로 합쳐서 다른 브랜치에 가져오는 전략 -> git merge main featureA
+rebase -> 여러 커밋을 다른 브랜치에 새로운 커밋들로 가져오는 전략 -> git rebase release main
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing
